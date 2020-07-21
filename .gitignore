@@ -1,0 +1,5 @@
+saved_models/*
+data/*
+quick_test.ipynb
+.ipynb_checkpoints/*
+__pycache__/*
